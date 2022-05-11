@@ -1,0 +1,12 @@
+.header {
+    margin: 40px 70px;
+}
+
+.header_logo {
+    width: 170px;
+    margin-right: 64px;
+}
+.header_menu{
+    display: inline-block;
+}
+
